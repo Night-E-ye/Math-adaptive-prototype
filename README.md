@@ -68,5 +68,5 @@ The architecture supports easy integration of Machine Learning:
 - Data collected by `tracker.py` can be used to train predictive models (e.g., logistic regression) later.
 - Future versions could replace if/else rules in `adaptive_engine.py` with a model that predicts user performance or churn risk and adapts questions more precisely.
 
-## Contributing
-If you'd like help improving this README or committing the cleaned version, tell me the branch name you'd like me to use and I can prepare a commit and PR for you.
+
+
